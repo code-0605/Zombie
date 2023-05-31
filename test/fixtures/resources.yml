@@ -1,0 +1,9 @@
+ak47_user_1:
+  name: 'AK47'
+  quantity: 6
+  user: user_1
+
+campbell_soup_user_2:
+  name: 'Campbell Soup'
+  quantity: 6
+  user: user_2

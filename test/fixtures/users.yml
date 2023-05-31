@@ -1,0 +1,13 @@
+user_1:
+  name: "Deep"
+  age: 24
+  gender: "male"
+  latitude: 24.675469
+  longitude: 97.443523
+
+user_2:
+  name: "Sasukae"
+  age: 24
+  gender: "male"
+  latitude: 54.675469
+  longitude: 107.443523
